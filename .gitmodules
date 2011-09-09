@@ -1,0 +1,3 @@
+[submodule "libcppa"]
+	path = libcppa
+	url = git://github.com/Neverlord/libcppa.git
